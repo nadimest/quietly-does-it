@@ -2,6 +2,8 @@
 
 A small, empathetic 3D isometric game about navigating social spaces while honoring your limits. All scenery and characters are original procedural 3D models; no external art services or accounts are needed.
 
+Play the latest release at **https://nadimest.github.io/quietly-does-it/**.
+
 ## Run locally
 
 1. Install Node.js 22.13 or newer.
